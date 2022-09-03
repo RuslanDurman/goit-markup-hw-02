@@ -128,10 +128,6 @@ a {
 
 /* Чим ми займаємося */
 
-.works {
-    background-color: var(--primary-background_color)
-}
-
 .work-do {
     color: var(--secondary-color);
     font-weight: 700;
